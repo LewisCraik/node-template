@@ -1,0 +1,9 @@
+{
+  "extends": ["prettier"],
+  "plugins": ["prettier"],
+  "rules": {
+    "semi": ["warn", "never"],
+    "indent": ["warn", 4],
+    "prettier/prettier": ["error"]
+  }
+}
