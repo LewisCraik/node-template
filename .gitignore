@@ -1,4 +1,6 @@
 # Custom
+
+# Force npm
 yarn.lock
 
 # https://github.com/github/gitignore/blob/main/Node.gitignore
